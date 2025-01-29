@@ -1,11 +1,17 @@
+
 h1{
-    color: hotpink;
+    color: rgb(249, 204, 120);
     text-decoration: underline;
+    display: flex;
+    justify-content: center;
     
 }
 
 p{
     padding: 15px;
-    color: hotpink;
+    color: rgb(189, 136, 68);
     background-color: rgb(196, 229, 250);
+    width: 200px;
+    display: flex;
+    justify-content: center;
 }
